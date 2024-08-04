@@ -1,4 +1,4 @@
-# LLM Gemini Web Apps
+# LLM Gemini Web App Project 1 - Image Q&A
  As a part of learning LLM, this repo contains different projects that I had completed on LLM using Google's Gemini API and Streamlit
 
  Vision API Testing in Streamlit:
