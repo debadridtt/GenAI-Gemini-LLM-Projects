@@ -1,8 +1,7 @@
-# LLM Gemini Web Apps
- As a part of learning LLM, this repo contains different projects that I had completed on LLM using Google's Gemini API and Streamlit
+# LLM Gemini Project 3 - Q&A based on PDFs
+Vision API Testing in Streamlit:
 
- Vision API Testing in Streamlit:
+![image](https://github.com/user-attachments/assets/1bcae61e-4ca7-4bb1-ace2-e9264944ac9b) ![image](https://github.com/user-attachments/assets/a10b8616-2f7f-495f-82cd-b2c99571790e)
 
- ![image](https://github.com/user-attachments/assets/dac88abe-241d-40da-b70f-4eb08a408ec6) ![Screenshot from 2024-07-26 00-27-17](https://github.com/user-attachments/assets/ae921bac-99ea-4b5e-bb7a-9b3ed9a3a00e)
 
 
